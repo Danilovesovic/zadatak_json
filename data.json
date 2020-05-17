@@ -14,13 +14,13 @@
                             {
                                 "id": "4",
                                 "parent_id": "9",
-                                "name": "Diagonala 13",
+                                "name": "Dijagonala 13",
                                 "children": []
                             },
                             {
                                 "id": "5",
                                 "parent_id": "9",
-                                "name": "Diagonala 15",
+                                "name": "Dijagonala 15",
                                 "children": [
                                     [
                                         {
@@ -47,7 +47,7 @@
                             {
                                 "id": "6",
                                 "parent_id": "9",
-                                "name": "Diagonala 17",
+                                "name": "Dijagonala 17",
                                 "children": []
                             }
                         ]
